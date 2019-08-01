@@ -1,0 +1,27 @@
+{
+  "name": "oncokb-styles",
+  "version": "0.1.0",
+  "description": "OncoKB Styles",
+  "main": "dist/css/oncokb.css",
+  "keywords": [
+    "oncokb",
+    "styles",
+    "css",
+    "sass"
+  ],
+  "homepage": "https://www.oncokb.org",
+  "author": "The OncoKB Authors (https://github.com/orgs/oncokb/people)",
+  "license": "AGPL-3.0",
+  "style": "dist/css/oncokb.css",
+  "sass": "scss/oncokb.scss",
+  "devDependencies": {
+    "del": "^5.0.0",
+    "gulp": "^4.0.2",
+    "gulp-changed": "^4.0.0",
+    "gulp-imagemin": "^6.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-watch": "^5.0.1",
+    "node-sass": "^4.12.0"
+  }
+}

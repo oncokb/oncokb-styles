@@ -1,0 +1,1598 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="200">
+
+  <!--Oncogenic icons-->
+  <g transform="translate(10, 10)">
+    <!--Oncogenic w/o level-->
+    <g transform="translate(0, 0)">
+
+      <g transform="translate(0, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="1.5" fill="#007FFF" stroke="none"></circle>
+        </g>
+      </g>
+      <g transform="translate(30, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="1.5" fill="#007FFF" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(13, 0)" r="6" fill="#33A02C"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">1</text>
+        </g>
+      </g>
+      <g transform="translate(60, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="1.5" fill="#007FFF" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(13, 0)" r="6" fill="#1F78B4"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">2</text>
+        </g>
+      </g>
+      <g transform="translate(90, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="1.5" fill="#007FFF" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(13, 0)" r="6" fill="#80B1D3"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">2</text>
+        </g>
+      </g>
+      <g transform="translate(120, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="1.5" fill="#007FFF" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(13, 0)" r="6" fill="#984EA3"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">3</text>
+        </g>
+      </g>
+      <g transform="translate(150, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="1.5" fill="#007FFF" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(13, 0)" r="6" fill="#BE98CE"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">3</text>
+        </g>
+      </g>
+      <g transform="translate(180, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="1.5" fill="#007FFF" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(13, 0)" r="6" fill="#424242"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">4</text>
+        </g>
+      </g>
+    </g>
+
+    <!-- Oncogenic R1 -->
+    <g transform="translate(210, 0)">
+      <g transform="translate(0, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="1.5" fill="#007FFF" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(13, 0)" r="6" fill="#EE3424"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">1</text>
+        </g>
+      </g>
+      <g transform="translate(30, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="1.5" fill="#007FFF" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#EE3424"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#33A02C"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">1</text>
+        </g>
+      </g>
+      <g transform="translate(60, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="1.5" fill="#007FFF" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#EE3424"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#1F78B4"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">2</text>
+        </g>
+      </g>
+      <g transform="translate(90, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="1.5" fill="#007FFF" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#EE3424"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#80B1D3"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">2</text>
+        </g>
+      </g>
+      <g transform="translate(120, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="1.5" fill="#007FFF" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#EE3424"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#984EA3"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">3</text>
+        </g>
+      </g>
+      <g transform="translate(150, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="1.5" fill="#007FFF" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#EE3424"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#BE98CE"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">3</text>
+        </g>
+      </g>
+      <g transform="translate(180, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="1.5" fill="#007FFF" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#EE3424"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#424242"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">4</text>
+        </g>
+      </g>
+    </g>
+
+    <!-- Oncogenic R2 -->
+    <g transform="translate(420, 0)">
+      <g transform="translate(0, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="1.5" fill="#007FFF" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(13, 0)" r="6" fill="#F79A92"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">2</text>
+        </g>
+      </g>
+      <g transform="translate(30, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="1.5" fill="#007FFF" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#F79A92"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#33A02C"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">1</text>
+        </g>
+      </g>
+      <g transform="translate(60, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="1.5" fill="#007FFF" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#F79A92"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#1F78B4"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">2</text>
+        </g>
+      </g>
+      <g transform="translate(90, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="1.5" fill="#007FFF" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#F79A92"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#80B1D3"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">2</text>
+        </g>
+      </g>
+      <g transform="translate(120, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="1.5" fill="#007FFF" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#F79A92"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#984EA3"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">3</text>
+        </g>
+      </g>
+      <g transform="translate(150, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="1.5" fill="#007FFF" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#F79A92"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#BE98CE"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">3</text>
+        </g>
+      </g>
+      <g transform="translate(180, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="1.5" fill="#007FFF" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#F79A92"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#424242"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">4</text>
+        </g>
+      </g>
+    </g>
+   
+    <!-- Oncogenic R3 -->
+    <g transform="translate(630, 0)">
+      <g transform="translate(0, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="1.5" fill="#007FFF" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(13, 0)" r="6" fill="#FCD6D3"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">3</text>
+        </g>
+      </g>
+      <g transform="translate(30, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="1.5" fill="#007FFF" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#FCD6D3"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#33A02C"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">1</text>
+        </g>
+      </g>
+      <g transform="translate(60, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="1.5" fill="#007FFF" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#FCD6D3"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#1F78B4"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">2</text>
+        </g>
+      </g>
+      <g transform="translate(90, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="1.5" fill="#007FFF" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#FCD6D3"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#80B1D3"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">2</text>
+        </g>
+      </g>
+      <g transform="translate(120, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="1.5" fill="#007FFF" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#FCD6D3"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#984EA3"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">3</text>
+        </g>
+      </g>
+      <g transform="translate(150, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="1.5" fill="#007FFF" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#FCD6D3"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#BE98CE"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">3</text>
+        </g>
+      </g>
+      <g transform="translate(180, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+          <circle r="1.5" fill="#007FFF" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#FCD6D3"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#424242"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">4</text>
+        </g>
+      </g>
+    </g>
+  </g>
+
+  <!--Neutural icons-->
+  <g transform="translate(10, 40)">
+    <!-- Neutural w/o level -->
+    <g transform="translate(0, 0)">
+      <g transform="translate(0, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="1.5" fill="#696969" stroke="none"></circle>
+        </g>
+      </g>
+      <g transform="translate(30, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="1.5" fill="#696969" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(13, 0)" r="6" fill="#33A02C"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">1</text>
+        </g>
+      </g>
+      <g transform="translate(60, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="1.5" fill="#696969" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(13, 0)" r="6" fill="#1F78B4"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">2</text>
+        </g>
+      </g>
+      <g transform="translate(90, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="1.5" fill="#696969" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(13, 0)" r="6" fill="#80B1D3"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">2</text>
+        </g>
+      </g>
+      <g transform="translate(120, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="1.5" fill="#696969" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(13, 0)" r="6" fill="#984EA3"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">3</text>
+        </g>
+      </g>
+      <g transform="translate(150, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="1.5" fill="#696969" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(13, 0)" r="6" fill="#BE98CE"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">3</text>
+        </g>
+      </g>
+      <g transform="translate(180, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="1.5" fill="#696969" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(13, 0)" r="6" fill="#424242"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">4</text>
+        </g>
+      </g>
+    </g>
+
+    <!-- Neutural R1 -->
+    <g transform="translate(210, 0)">
+      <g transform="translate(0, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="1.5" fill="#696969" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(13, 0)" r="6" fill="#EE3424"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">1</text>
+        </g>
+      </g>
+      <g transform="translate(30, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="1.5" fill="#696969" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#EE3424"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#33A02C"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">1</text>
+        </g>
+      </g>
+      <g transform="translate(60, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="1.5" fill="#696969" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#EE3424"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#1F78B4"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">2</text>
+        </g>
+      </g>
+      <g transform="translate(90, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="1.5" fill="#696969" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#EE3424"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#80B1D3"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">2</text>
+        </g>
+      </g>
+      <g transform="translate(120, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="1.5" fill="#696969" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#EE3424"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#984EA3"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">3</text>
+        </g>
+      </g>
+      <g transform="translate(150, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="1.5" fill="#696969" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#EE3424"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#BE98CE"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">3</text>
+        </g>
+      </g>
+      <g transform="translate(180, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="1.5" fill="#696969" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#EE3424"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#424242"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">4</text>
+        </g>
+      </g>
+    </g>
+
+    <!-- Neutural R2 -->
+    <g transform="translate(420, 0)">
+      <g transform="translate(0, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="1.5" fill="#696969" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(13, 0)" r="6" fill="#F79A92"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">2</text>
+        </g>
+      </g>
+      <g transform="translate(30, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="1.5" fill="#696969" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#F79A92"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#33A02C"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">1</text>
+        </g>
+      </g>
+      <g transform="translate(60, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="1.5" fill="#696969" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#F79A92"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#1F78B4"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">2</text>
+        </g>
+      </g>
+      <g transform="translate(90, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="1.5" fill="#696969" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#F79A92"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#80B1D3"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">2</text>
+        </g>
+      </g>
+      <g transform="translate(120, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="1.5" fill="#696969" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#F79A92"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#984EA3"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">3</text>
+        </g>
+      </g>
+      <g transform="translate(150, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="1.5" fill="#696969" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#F79A92"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#BE98CE"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">3</text>
+        </g>
+      </g>
+      <g transform="translate(180, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="1.5" fill="#696969" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#F79A92"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#424242"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">4</text>
+        </g>
+      </g>
+    </g>
+   
+    <!-- Neutural R3 -->
+    <g transform="translate(630, 0)">
+      <g transform="translate(0, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="1.5" fill="#696969" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(13, 0)" r="6" fill="#FCD6D3"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">3</text>
+        </g>
+      </g>
+      <g transform="translate(30, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="1.5" fill="#696969" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#FCD6D3"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#33A02C"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">1</text>
+        </g>
+      </g>
+      <g transform="translate(60, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="1.5" fill="#696969" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#FCD6D3"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#1F78B4"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">2</text>
+        </g>
+      </g>
+      <g transform="translate(90, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="1.5" fill="#696969" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#FCD6D3"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#80B1D3"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">2</text>
+        </g>
+      </g>
+      <g transform="translate(120, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="1.5" fill="#696969" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#FCD6D3"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#984EA3"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">3</text>
+        </g>
+      </g>
+      <g transform="translate(150, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="1.5" fill="#696969" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#FCD6D3"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#BE98CE"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">3</text>
+        </g>
+      </g>
+      <g transform="translate(180, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#696969"></circle>
+          <circle r="1.5" fill="#696969" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#FCD6D3"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#424242"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">4</text>
+        </g>
+      </g>
+    </g>
+  </g>
+
+  <!--Inconclusive icons-->
+  <g transform="translate(10, 70)">
+    <!-- VUS w/o level -->
+    <g transform="translate(0, 0)">
+      <g transform="translate(0, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="1.5" fill="#aaaaaa" stroke="none"></circle>
+        </g>
+      </g>
+      <g transform="translate(30, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="1.5" fill="#aaaaaa" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(13, 0)" r="6" fill="#33A02C"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">1</text>
+        </g>
+      </g>
+      <g transform="translate(60, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="1.5" fill="#aaaaaa" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(13, 0)" r="6" fill="#1F78B4"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">2</text>
+        </g>
+      </g>
+      <g transform="translate(90, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="1.5" fill="#aaaaaa" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(13, 0)" r="6" fill="#80B1D3"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">2</text>
+        </g>
+      </g>
+      <g transform="translate(120, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="1.5" fill="#aaaaaa" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(13, 0)" r="6" fill="#984EA3"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">3</text>
+        </g>
+      </g>
+      <g transform="translate(150, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="1.5" fill="#aaaaaa" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(13, 0)" r="6" fill="#BE98CE"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">3</text>
+        </g>
+      </g>
+      <g transform="translate(180, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="1.5" fill="#aaaaaa" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(13, 0)" r="6" fill="#424242"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">4</text>
+        </g>
+      </g>
+    </g>
+
+    <!-- VUS R1 -->
+    <g transform="translate(210, 0)">
+      <g transform="translate(0, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="1.5" fill="#aaaaaa" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(13, 0)" r="6" fill="#EE3424"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">1</text>
+        </g>
+      </g>
+      <g transform="translate(30, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="1.5" fill="#aaaaaa" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#EE3424"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#33A02C"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">1</text>
+        </g>
+      </g>
+      <g transform="translate(60, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="1.5" fill="#aaaaaa" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#EE3424"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#1F78B4"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">2</text>
+        </g>
+      </g>
+      <g transform="translate(90, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="1.5" fill="#aaaaaa" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#EE3424"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#80B1D3"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">2</text>
+        </g>
+      </g>
+      <g transform="translate(120, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="1.5" fill="#aaaaaa" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#EE3424"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#984EA3"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">3</text>
+        </g>
+      </g>
+      <g transform="translate(150, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="1.5" fill="#aaaaaa" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#EE3424"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#BE98CE"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">3</text>
+        </g>
+      </g>
+      <g transform="translate(180, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="1.5" fill="#aaaaaa" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#EE3424"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#424242"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">4</text>
+        </g>
+      </g>
+    </g>
+
+    <!-- VUS R2 -->
+    <g transform="translate(420, 0)">
+      <g transform="translate(0, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="1.5" fill="#aaaaaa" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(13, 0)" r="6" fill="#F79A92"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">2</text>
+        </g>
+      </g>
+      <g transform="translate(30, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="1.5" fill="#aaaaaa" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#F79A92"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#33A02C"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">1</text>
+        </g>
+      </g>
+      <g transform="translate(60, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="1.5" fill="#aaaaaa" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#F79A92"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#1F78B4"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">2</text>
+        </g>
+      </g>
+      <g transform="translate(90, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="1.5" fill="#aaaaaa" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#F79A92"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#80B1D3"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">2</text>
+        </g>
+      </g>
+      <g transform="translate(120, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="1.5" fill="#aaaaaa" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#F79A92"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#984EA3"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">3</text>
+        </g>
+      </g>
+      <g transform="translate(150, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="1.5" fill="#aaaaaa" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#F79A92"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#BE98CE"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">3</text>
+        </g>
+      </g>
+      <g transform="translate(180, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="1.5" fill="#aaaaaa" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#F79A92"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#424242"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">4</text>
+        </g>
+      </g>
+    </g>
+   
+    <!-- VUS R3 -->
+    <g transform="translate(630, 0)">
+      <g transform="translate(0, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="1.5" fill="#aaaaaa" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(13, 0)" r="6" fill="#FCD6D3"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">3</text>
+        </g>
+      </g>
+      <g transform="translate(30, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="1.5" fill="#aaaaaa" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#FCD6D3"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#33A02C"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">1</text>
+        </g>
+      </g>
+      <g transform="translate(60, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="1.5" fill="#aaaaaa" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#FCD6D3"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#1F78B4"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">2</text>
+        </g>
+      </g>
+      <g transform="translate(90, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="1.5" fill="#aaaaaa" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#FCD6D3"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#80B1D3"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">2</text>
+        </g>
+      </g>
+      <g transform="translate(120, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="1.5" fill="#aaaaaa" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#FCD6D3"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#984EA3"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">3</text>
+        </g>
+      </g>
+      <g transform="translate(150, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="1.5" fill="#aaaaaa" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#FCD6D3"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#BE98CE"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">3</text>
+        </g>
+      </g>
+      <g transform="translate(180, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#aaaaaa"></circle>
+          <circle r="1.5" fill="#aaaaaa" stroke="none"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#FCD6D3"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#424242"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">4</text>
+        </g>
+      </g>
+    </g>
+  </g>
+
+  <!--VUS icons-->
+  <g transform="translate(10, 100)">
+    <!-- VUS w/o level -->
+    <g transform="translate(0, 0)">
+      <g transform="translate(0, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+        </g>
+      </g>
+      <g transform="translate(30, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(13, 0)" r="6" fill="#33A02C"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">1</text>
+        </g>
+      </g>
+      <g transform="translate(60, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(13, 0)" r="6" fill="#1F78B4"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">2</text>
+        </g>
+      </g>
+      <g transform="translate(90, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(13, 0)" r="6" fill="#80B1D3"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">2</text>
+        </g>
+      </g>
+      <g transform="translate(120, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(13, 0)" r="6" fill="#984EA3"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">3</text>
+        </g>
+      </g>
+      <g transform="translate(150, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(13, 0)" r="6" fill="#BE98CE"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">3</text>
+        </g>
+      </g>
+      <g transform="translate(180, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(13, 0)" r="6" fill="#424242"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">4</text>
+        </g>
+      </g>
+    </g>
+
+    <!-- VUS R1 -->
+    <g transform="translate(210, 0)">
+      <g transform="translate(0, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(13, 0)" r="6" fill="#EE3424"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">1</text>
+        </g>
+      </g>
+      <g transform="translate(30, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#EE3424"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#33A02C"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">1</text>
+        </g>
+      </g>
+      <g transform="translate(60, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#EE3424"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#1F78B4"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">2</text>
+        </g>
+      </g>
+      <g transform="translate(90, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#EE3424"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#80B1D3"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">2</text>
+        </g>
+      </g>
+      <g transform="translate(120, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#EE3424"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#984EA3"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">3</text>
+        </g>
+      </g>
+      <g transform="translate(150, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#EE3424"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#BE98CE"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">3</text>
+        </g>
+      </g>
+      <g transform="translate(180, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#EE3424"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#424242"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">4</text>
+        </g>
+      </g>
+    </g>
+
+    <!-- VUS R2 -->
+    <g transform="translate(420, 0)">
+      <g transform="translate(0, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(13, 0)" r="6" fill="#F79A92"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">2</text>
+        </g>
+      </g>
+      <g transform="translate(30, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#F79A92"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#33A02C"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">1</text>
+        </g>
+      </g>
+      <g transform="translate(60, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#F79A92"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#1F78B4"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">2</text>
+        </g>
+      </g>
+      <g transform="translate(90, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#F79A92"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#80B1D3"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">2</text>
+        </g>
+      </g>
+      <g transform="translate(120, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#F79A92"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#984EA3"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">3</text>
+        </g>
+      </g>
+      <g transform="translate(150, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#F79A92"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#BE98CE"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">3</text>
+        </g>
+      </g>
+      <g transform="translate(180, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#F79A92"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#424242"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">4</text>
+        </g>
+      </g>
+    </g>
+   
+    <!-- VUS R3 -->
+    <g transform="translate(630, 0)">
+      <g transform="translate(0, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(13, 0)" r="6" fill="#FCD6D3"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">3</text>
+        </g>
+      </g>
+      <g transform="translate(30, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#FCD6D3"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#33A02C"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">1</text>
+        </g>
+      </g>
+      <g transform="translate(60, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#FCD6D3"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#1F78B4"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">2</text>
+        </g>
+      </g>
+      <g transform="translate(90, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#FCD6D3"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#80B1D3"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">2</text>
+        </g>
+      </g>
+      <g transform="translate(120, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#FCD6D3"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#984EA3"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">3</text>
+        </g>
+      </g>
+      <g transform="translate(150, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#FCD6D3"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#BE98CE"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">3</text>
+        </g>
+      </g>
+      <g transform="translate(180, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#696969"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#FCD6D3"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#424242"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">4</text>
+        </g>
+      </g>
+    </g>
+  </g>
+
+  <!--No info icons-->
+  <g transform="translate(10, 130)">
+    <!-- No info w/o level -->
+    <g transform="translate(0, 0)">
+      <g transform="translate(0, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#cccccc"></circle>
+        </g>
+      </g>
+      <g transform="translate(30, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#cccccc"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(13, 0)" r="6" fill="#33A02C"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">1</text>
+        </g>
+      </g>
+      <g transform="translate(60, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#cccccc"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(13, 0)" r="6" fill="#1F78B4"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">2</text>
+        </g>
+      </g>
+      <g transform="translate(90, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#cccccc"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(13, 0)" r="6" fill="#80B1D3"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">2</text>
+        </g>
+      </g>
+      <g transform="translate(120, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#cccccc"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(13, 0)" r="6" fill="#984EA3"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">3</text>
+        </g>
+      </g>
+      <g transform="translate(150, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#cccccc"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(13, 0)" r="6" fill="#BE98CE"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">3</text>
+        </g>
+      </g>
+      <g transform="translate(180, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#cccccc"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(13, 0)" r="6" fill="#424242"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">4</text>
+        </g>
+      </g>
+    </g>
+
+    <!-- No info R1 -->
+    <g transform="translate(210, 0)">
+      <g transform="translate(0, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#cccccc"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(13, 0)" r="6" fill="#EE3424"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">1</text>
+        </g>
+      </g>
+      <g transform="translate(30, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#cccccc"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#EE3424"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#33A02C"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">1</text>
+        </g>
+      </g>
+      <g transform="translate(60, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#cccccc"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#EE3424"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#1F78B4"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">2</text>
+        </g>
+      </g>
+      <g transform="translate(90, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#cccccc"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#EE3424"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#80B1D3"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">2</text>
+        </g>
+      </g>
+      <g transform="translate(120, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#cccccc"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#EE3424"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#984EA3"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">3</text>
+        </g>
+      </g>
+      <g transform="translate(150, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#cccccc"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#EE3424"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#BE98CE"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">3</text>
+        </g>
+      </g>
+      <g transform="translate(180, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#cccccc"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#EE3424"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#424242"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">4</text>
+        </g>
+      </g>
+    </g>
+
+    <!-- No info R2 -->
+    <g transform="translate(420, 0)">
+      <g transform="translate(0, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#cccccc"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(13, 0)" r="6" fill="#F79A92"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">2</text>
+        </g>
+      </g>
+      <g transform="translate(30, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#cccccc"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#F79A92"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#33A02C"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">1</text>
+        </g>
+      </g>
+      <g transform="translate(60, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#cccccc"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#F79A92"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#1F78B4"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">2</text>
+        </g>
+      </g>
+      <g transform="translate(90, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#cccccc"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#F79A92"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#80B1D3"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">2</text>
+        </g>
+      </g>
+      <g transform="translate(120, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#cccccc"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#F79A92"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#984EA3"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">3</text>
+        </g>
+      </g>
+      <g transform="translate(150, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#cccccc"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#F79A92"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#BE98CE"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">3</text>
+        </g>
+      </g>
+      <g transform="translate(180, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#cccccc"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#F79A92"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#424242"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">4</text>
+        </g>
+      </g>
+    </g>
+   
+    <!-- No info R3 -->
+    <g transform="translate(630, 0)">
+      <g transform="translate(0, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#cccccc"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(13, 0)" r="6" fill="#FCD6D3"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">3</text>
+        </g>
+      </g>
+      <g transform="translate(30, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#cccccc"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#FCD6D3"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#33A02C"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">1</text>
+        </g>
+      </g>
+      <g transform="translate(60, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#cccccc"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#FCD6D3"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#1F78B4"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">2</text>
+        </g>
+      </g>
+      <g transform="translate(90, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#cccccc"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#FCD6D3"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#80B1D3"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">2</text>
+        </g>
+      </g>
+      <g transform="translate(120, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#cccccc"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#FCD6D3"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#984EA3"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">3</text>
+        </g>
+      </g>
+      <g transform="translate(150, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#cccccc"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#FCD6D3"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#BE98CE"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">3</text>
+        </g>
+      </g>
+      <g transform="translate(180, 0)">
+        <g transform="translate(7, 13)">
+          <circle r="6" fill="none" stroke-width="2" stroke="#cccccc"></circle>
+        </g>
+        <g transform="translate(0, 6)">
+          <circle transform="translate(9, 0)" r="6" fill="#FCD6D3"></circle>
+          <circle transform="translate(13, 0)" r="6" fill="#424242"></circle>
+          <text transform="translate(13, 3.5)" text-anchor="middle" font-size="10" font-family="Sans-serif" stroke-width="0" fill="#ffffff">4</text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,264 @@
+@import "vars";
+
+.oncokb {
+  &.level-icon {
+    background-image: url('images/v3/level-icons.png');
+    width: 16px;
+    height: 16px;
+    flex-shrink: 0;
+    line-height: 16px;
+    background-size: 200px;
+    margin: 0 3px;
+    display: block;
+
+    &.level-1 {
+      background-position: -15px -21px;
+    }
+
+    &.level-2A {
+      background-position: -40px -21px;
+    }
+
+    &.level-2B {
+      background-position: -65px -21px;
+    }
+
+    &.level-3A {
+      background-position: -90px -21px;
+    }
+
+    &.level-3B {
+      background-position: -115px -21px;
+    }
+
+    &.level-4 {
+      background-position: -140px -21px;
+    }
+
+    &.level-R1 {
+      background-position: -15px -51px;
+    }
+
+    &.level-R2 {
+      background-position: -40px -51px;
+    }
+
+    &.level-R3 {
+      background-position: -65px -51px;
+    }
+
+    &.level-2 {
+      background-position: -90px -51px;
+    }
+
+    &.level-3 {
+      background-position: -115px -51px;
+    }
+  }
+
+  &.annotation-icon {
+    background-image: url('images/v3/annotation-icons.png');
+    width: 22px;
+    height: 22px;
+    line-height: 22px;
+    -webkit-background-size: 200px;
+    background-size: 900px;
+    display: block !important;
+
+    &.oncogenic {
+      background-position-y: -9px;
+    }
+
+    &.neutral {
+      background-position-y: -39px;
+    }
+
+    &.inconclusive {
+      background-position-y: -69px;
+    }
+
+    &.vus {
+      background-position-y: -99px;
+    }
+
+    &.unknown {
+      background-position-y: -129px;
+    }
+
+    &.no-level {
+      background-position-x: -9px;
+    }
+
+    &.level-1 {
+      background-position-x: -39px;
+    }
+
+    &.level-2A {
+      background-position-x: -69px;
+    }
+
+    &.level-2B {
+      background-position-x: -99px;
+    }
+
+    &.level-3A {
+      background-position-x: -129px;
+    }
+
+    &.level-3B {
+      background-position-x: -159px;
+    }
+
+    &.level-4 {
+      background-position-x: -189px;
+    }
+
+    &.level-R1 {
+      background-position-x: -219px;
+    }
+
+    &.level-1-R1 {
+      background-position-x: -249px;
+    }
+
+    &.level-2A-R1 {
+      background-position-x: -279px;
+    }
+
+    &.level-2B-R1 {
+      background-position-x: -309px;
+    }
+
+    &.level-3A-R1 {
+      background-position-x: -339px;
+    }
+
+    &.level-3B-R1 {
+      background-position-x: -369px;
+    }
+
+    &.level-4-R1 {
+      background-position-x: -399px;
+    }
+
+    &.level-R2 {
+      background-position-x: -429px;
+    }
+
+    &.level-1-R2 {
+      background-position-x: -459px;
+    }
+
+    &.level-2A-R2 {
+      background-position-x: -489px;
+    }
+
+    &.level-2B-R2 {
+      background-position-x: -519px;
+    }
+
+    &.level-3A-R2 {
+      background-position-x: -549px;
+    }
+
+    &.level-3B-R2 {
+      background-position-x: -579px;
+    }
+
+    &.level-4-R2 {
+      background-position-x: -609px;
+    }
+
+    &.level-R3 {
+      background-position-x: -639px;
+    }
+
+    &.level-1-R3 {
+      background-position-x: -669px;
+    }
+
+    &.level-2A-R3 {
+      background-position-x: -699px;
+    }
+
+    &.level-2B-R3 {
+      background-position-x: -729px;
+    }
+
+    &.level-3-R3 {
+      background-position-x: -759px;
+    }
+
+    &.level-4-R3 {
+      background-position-x: -789px;
+    }
+  }
+
+  &.level-1 {
+    color: $oncokb-color-level-1;
+  }
+
+  &.level-2 {
+    color: $oncokb-color-level-2;
+  }
+
+  &.level-2A {
+    color: $oncokb-color-level-2A;
+  }
+
+  &.level-2B {
+    color: $oncokb-color-level-2B;
+  }
+
+  &.level-3 {
+    color: $oncokb-color-level-3;
+  }
+
+  &.level-3A {
+    color: $oncokb-color-level-3A;
+  }
+
+  &.level-3B {
+    color: $oncokb-color-level-3B;
+  }
+
+  &.level-4 {
+    color: $oncokb-color-level-4;
+  }
+
+  &.level-R1 {
+    color: $oncokb-color-level-R1;
+  }
+
+  &.level-R2 {
+    color: $oncokb-color-level-R2;
+  }
+
+  &.level-R3 {
+    color: $oncokb-color-level-R3;
+  }
+
+  &.level-Dx1 {
+    color: $oncokb-color-level-Dx1;
+  }
+
+  &.level-Dx2 {
+    color: $oncokb-color-level-Dx2;
+  }
+
+  &.level-Dx3 {
+    color: $oncokb-color-level-Dx3;
+  }
+
+  &.level-Px1 {
+    color: $oncokb-color-level-Px1;
+  }
+
+  &.level-Px2 {
+    color: $oncokb-color-level-Px2;
+  }
+
+  &.level-Px3 {
+    color: $oncokb-color-level-Px3;
+  }
+}
