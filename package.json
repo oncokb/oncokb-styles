@@ -14,6 +14,10 @@
   "license": "AGPL-3.0",
   "style": "dist/css/oncokb.css",
   "sass": "scss/oncokb.scss",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/oncokb/styles.git"
+  },
   "devDependencies": {
     "del": "^5.0.0",
     "gulp": "^4.0.2",
