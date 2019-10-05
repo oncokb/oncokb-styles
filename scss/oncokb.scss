@@ -1,6 +1,98 @@
 @import "vars";
 
 .oncokb {
+  // Oncogenicity colors
+  &.oncogenic, &.likely-oncogenic, &.predicted-oncogenic {
+    color: $oncokb-color-oncogenic;
+  }
+
+  &.neutral, &.likely-neutral {
+    color: $oncokb-color-neutral;
+  }
+
+  &.inconclusive {
+    color: $oncokb-color-inconclusive;
+  }
+
+  &.vus {
+    color: $oncokb-color-vus;
+  }
+
+  &.unknown {
+    color: $oncokb-color-unknown;
+  }
+
+  // Level colors
+
+
+  &.level-1 {
+    color: $oncokb-color-level-1;
+  }
+
+  &.level-2 {
+    color: $oncokb-color-level-2;
+  }
+
+  &.level-2A {
+    color: $oncokb-color-level-2A;
+  }
+
+  &.level-2B {
+    color: $oncokb-color-level-2B;
+  }
+
+  &.level-3 {
+    color: $oncokb-color-level-3;
+  }
+
+  &.level-3A {
+    color: $oncokb-color-level-3A;
+  }
+
+  &.level-3B {
+    color: $oncokb-color-level-3B;
+  }
+
+  &.level-4 {
+    color: $oncokb-color-level-4;
+  }
+
+  &.level-R1 {
+    color: $oncokb-color-level-R1;
+  }
+
+  &.level-R2 {
+    color: $oncokb-color-level-R2;
+  }
+
+  &.level-R3 {
+    color: $oncokb-color-level-R3;
+  }
+
+  &.level-Dx1 {
+    color: $oncokb-color-level-Dx1;
+  }
+
+  &.level-Dx2 {
+    color: $oncokb-color-level-Dx2;
+  }
+
+  &.level-Dx3 {
+    color: $oncokb-color-level-Dx3;
+  }
+
+  &.level-Px1 {
+    color: $oncokb-color-level-Px1;
+  }
+
+  &.level-Px2 {
+    color: $oncokb-color-level-Px2;
+  }
+
+  &.level-Px3 {
+    color: $oncokb-color-level-Px3;
+  }
+
   &.level-icon {
     background-image: url('images/v3/level-icons.png');
     width: 16px;
@@ -192,73 +284,5 @@
     &.level-4-R3 {
       background-position-x: -789px;
     }
-  }
-
-  &.level-1 {
-    color: $oncokb-color-level-1;
-  }
-
-  &.level-2 {
-    color: $oncokb-color-level-2;
-  }
-
-  &.level-2A {
-    color: $oncokb-color-level-2A;
-  }
-
-  &.level-2B {
-    color: $oncokb-color-level-2B;
-  }
-
-  &.level-3 {
-    color: $oncokb-color-level-3;
-  }
-
-  &.level-3A {
-    color: $oncokb-color-level-3A;
-  }
-
-  &.level-3B {
-    color: $oncokb-color-level-3B;
-  }
-
-  &.level-4 {
-    color: $oncokb-color-level-4;
-  }
-
-  &.level-R1 {
-    color: $oncokb-color-level-R1;
-  }
-
-  &.level-R2 {
-    color: $oncokb-color-level-R2;
-  }
-
-  &.level-R3 {
-    color: $oncokb-color-level-R3;
-  }
-
-  &.level-Dx1 {
-    color: $oncokb-color-level-Dx1;
-  }
-
-  &.level-Dx2 {
-    color: $oncokb-color-level-Dx2;
-  }
-
-  &.level-Dx3 {
-    color: $oncokb-color-level-Dx3;
-  }
-
-  &.level-Px1 {
-    color: $oncokb-color-level-Px1;
-  }
-
-  &.level-Px2 {
-    color: $oncokb-color-level-Px2;
-  }
-
-  &.level-Px3 {
-    color: $oncokb-color-level-Px3;
   }
 }

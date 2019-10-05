@@ -1,6 +1,6 @@
 {
   "name": "oncokb-styles",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "OncoKB Styles",
   "main": "dist/css/oncokb.css",
   "keywords": [
@@ -15,8 +15,8 @@
   "style": "dist/css/oncokb.css",
   "sass": "scss/oncokb.scss",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/oncokb/styles.git"
+    "type": "git",
+    "url": "https://github.com/oncokb/styles.git"
   },
   "devDependencies": {
     "del": "^5.0.0",
