@@ -1,5 +1,13 @@
 # OncoKB Styles
 
+## Use oncogenicity color
+Please include class name `oncokb {oncogenicity}`, it uses css color.  
+The possible values are oncogenic, likely-oncogenic, predicted-oncogenic, neutral, likely-neutral, vus, inconclusive and unknown.  
+
+## Use level color
+Please include class name `oncokb level-{level}`, it uses css color.  
+The possible values are 1, 2, 2A, 2B, 3, 3A, 3B, 4, R1, R2 and R3.  
+
 ## Use level icon
 Please include class name `oncokb level-icon level-{level}`  
 The possible level values are 1, 2, 2A, 2B, 3, 3A, 3B, 4, R1, R2 and R3
