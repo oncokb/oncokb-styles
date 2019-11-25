@@ -1,0 +1,14 @@
+@mixin level-icon() {
+  width: 16px;
+  height: 16px;
+  flex-shrink: 0;
+  line-height: 16px;
+  background-size: 900px;
+  margin: 0 3px;
+  display: block;
+}
+
+@mixin background-position($x, $y) {
+  background-position-x: -(15px + ($x - 1) * 25px);
+  background-position-y: -(21px + ($y - 1) * 30px);
+}

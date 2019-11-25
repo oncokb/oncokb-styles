@@ -70,31 +70,80 @@
   height: 16px;
   flex-shrink: 0;
   line-height: 16px;
-  background-size: 200px;
+  background-size: 900px;
   margin: 0 3px;
   display: block; }
   .oncokb.level-icon.level-1 {
-    background-position: -15px -21px; }
+    background-position-x: -15px;
+    background-position-y: -21px; }
   .oncokb.level-icon.level-2A {
-    background-position: -40px -21px; }
+    background-position-x: -40px;
+    background-position-y: -21px; }
   .oncokb.level-icon.level-2B {
-    background-position: -65px -21px; }
+    background-position-x: -65px;
+    background-position-y: -21px; }
   .oncokb.level-icon.level-3A {
-    background-position: -90px -21px; }
+    background-position-x: -90px;
+    background-position-y: -21px; }
   .oncokb.level-icon.level-3B {
-    background-position: -115px -21px; }
+    background-position-x: -115px;
+    background-position-y: -21px; }
   .oncokb.level-icon.level-4 {
-    background-position: -140px -21px; }
+    background-position-x: -140px;
+    background-position-y: -21px; }
   .oncokb.level-icon.level-R1 {
-    background-position: -15px -51px; }
+    background-position-x: -15px;
+    background-position-y: -51px; }
   .oncokb.level-icon.level-R2 {
-    background-position: -40px -51px; }
+    background-position-x: -40px;
+    background-position-y: -51px; }
   .oncokb.level-icon.level-R3 {
-    background-position: -65px -51px; }
+    background-position-x: -65px;
+    background-position-y: -51px; }
   .oncokb.level-icon.level-2 {
-    background-position: -90px -51px; }
+    background-position-x: -90px;
+    background-position-y: -51px; }
   .oncokb.level-icon.level-3 {
-    background-position: -115px -51px; }
+    background-position-x: -115px;
+    background-position-y: -51px; }
+
+.oncokb.dx-icon {
+  background-image: url("images/v3/dx-icons.png");
+  width: 16px;
+  height: 16px;
+  flex-shrink: 0;
+  line-height: 16px;
+  background-size: 900px;
+  margin: 0 3px;
+  display: block; }
+  .oncokb.dx-icon.level-Dx1 {
+    background-position-x: -15px;
+    background-position-y: -21px; }
+  .oncokb.dx-icon.level-Dx2 {
+    background-position-x: -40px;
+    background-position-y: -21px; }
+  .oncokb.dx-icon.level-Dx3 {
+    background-position-x: -65px;
+    background-position-y: -21px; }
+
+.oncokb.px-icon {
+  background-image: url("images/v3/px-icons.png");
+  width: 16px;
+  height: 16px;
+  flex-shrink: 0;
+  line-height: 16px;
+  background-size: 900px;
+  margin: 0 3px;
+  display: block; }
+  .oncokb.px-icon.level-Px1 {
+    background-position-x: -15px;
+    background-position-y: -21px; }
+  .oncokb.px-icon.level-Px2 {
+    background-position-x: -40px;
+    background-position-y: -21px; }
+  .oncokb.px-icon.level-Px3 {
+    background-position-x: -65px;
+    background-position-y: -21px; }
 
 .oncokb.annotation-icon {
   background-image: url("images/v3/annotation-icons.png");
