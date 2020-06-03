@@ -1,14 +1,12 @@
-@mixin level-icon() {
-  width: 16px;
-  height: 16px;
-  flex-shrink: 0;
-  line-height: 16px;
-  background-size: 900px;
-  margin: 0 3px;
-  display: block;
+@mixin level-icon-background-position($x, $y) {
+  background-position-x: -(15px + ($x - 1) * 25px);
+  background-position-y: -(20px + ($y - 1) * 30px);
 }
 
-@mixin background-position($x, $y) {
-  background-position-x: -(15px + ($x - 1) * 25px);
-  background-position-y: -(21px + ($y - 1) * 30px);
+@mixin annotation-icon-background-position-x($x) {
+  background-position-x: -(9px + ($x - 1) * 30px);
+}
+
+@mixin annotation-icon-background-position-y($y) {
+  background-position-y: -(9px + ($y - 1) * 30px);
 }

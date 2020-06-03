@@ -34,24 +34,8 @@
     color: $oncokb-color-level-2;
   }
 
-  &.level-2A {
-    color: $oncokb-color-level-2A;
-  }
-
-  &.level-2B {
-    color: $oncokb-color-level-2B;
-  }
-
   &.level-3 {
     color: $oncokb-color-level-3;
-  }
-
-  &.level-3A {
-    color: $oncokb-color-level-3A;
-  }
-
-  &.level-3B {
-    color: $oncokb-color-level-3B;
   }
 
   &.level-4 {
@@ -95,239 +79,176 @@
   }
 
   &.level-icon {
-    background-image: url('images/v3/level-icons.png');
-    @include level-icon();
+    background-image: url('images/v4/level-icons.png');
+    width: 16px;
+    height: 16px;
+    flex-shrink: 0;
+    line-height: 16px;
+    background-size: 120px;
+    margin: 0 3px;
+    display: block;
 
     &.level-1 {
-      @include background-position(1, 1);
-    }
-
-    &.level-2A {
-      @include background-position(2, 1);
-    }
-
-    &.level-2B {
-      @include background-position(3, 1);
-    }
-
-    &.level-3A {
-      @include background-position(4, 1);
-    }
-
-    &.level-3B {
-      @include background-position(5, 1);
-    }
-
-    &.level-4 {
-      @include background-position(6, 1);
-    }
-
-    &.level-R1 {
-      @include background-position(1, 2);
-    }
-
-    &.level-R2 {
-      @include background-position(2, 2);
-    }
-
-    &.level-R3 {
-      @include background-position(3, 2);
+      @include level-icon-background-position(1, 1);
     }
 
     &.level-2 {
-      @include background-position(4, 2);
+      @include level-icon-background-position(2, 1);
     }
 
     &.level-3 {
-      @include background-position(5, 2);
+      @include level-icon-background-position(3, 1);
     }
-  }
 
-  &.dx-icon {
-    background-image: url('images/v3/dx-icons.png');
-    @include level-icon();
+    &.level-4 {
+      @include level-icon-background-position(4, 1);
+    }
+
+    &.level-R1 {
+      @include level-icon-background-position(1, 2);
+    }
+
+    &.level-R2 {
+      @include level-icon-background-position(2, 2);
+    }
+
+    &.level-R3 {
+      @include level-icon-background-position(3, 2);
+    }
 
     &.level-Dx1 {
-      @include background-position(1, 1);
+      @include level-icon-background-position(1, 3);
     }
 
     &.level-Dx2 {
-      @include background-position(2, 1);
+      @include level-icon-background-position(2, 3);
     }
 
     &.level-Dx3 {
-      @include background-position(3, 1);
+      @include level-icon-background-position(3, 3);
     }
-  }
-
-  &.px-icon {
-    background-image: url('images/v3/px-icons.png');
-    @include level-icon();
 
     &.level-Px1 {
-      @include background-position(1, 1);
+      @include level-icon-background-position(1, 4);
     }
 
     &.level-Px2 {
-      @include background-position(2, 1);
+      @include level-icon-background-position(2, 4);
     }
 
     &.level-Px3 {
-      @include background-position(3, 1);
+      @include level-icon-background-position(3, 4);
     }
   }
 
   &.annotation-icon {
-    background-image: url('images/v3/annotation-icons.png');
+    background-image: url('images/v4/annotation-icons.png');
     width: 22px;
     height: 22px;
     line-height: 22px;
-    -webkit-background-size: 200px;
-    background-size: 900px;
+    // background size is the same of corresponding to the width of svg file
+    -webkit-background-size: 610px;
+    background-size: 610px;
     display: block !important;
 
     &.oncogenic {
-      background-position-y: -9px;
+      @include annotation-icon-background-position-y(1);
     }
 
     &.neutral {
-      background-position-y: -39px;
+      @include annotation-icon-background-position-y(2);
     }
 
     &.inconclusive {
-      background-position-y: -69px;
+      @include annotation-icon-background-position-y(3);
     }
 
     &.vus {
-      background-position-y: -99px;
+      @include annotation-icon-background-position-y(4);
     }
 
     &.unknown {
-      background-position-y: -129px;
+      @include annotation-icon-background-position-y(5);
     }
 
     &.no-level {
-      background-position-x: -9px;
+      @include annotation-icon-background-position-x(1);
     }
 
     &.level-1 {
-      background-position-x: -39px;
+      @include annotation-icon-background-position-x(2);
     }
 
     &.level-2 {
-      background-position-x: -69px;
+      @include annotation-icon-background-position-x(3);
     }
 
-    &.level-2A {
-      background-position-x: -69px;
-    }
-
-    &.level-2B {
-      background-position-x: -99px;
-    }
-
-    &.level-3A {
-      background-position-x: -129px;
-    }
-
-    &.level-3B {
-      background-position-x: -159px;
+    &.level-3 {
+      @include annotation-icon-background-position-x(4);
     }
 
     &.level-4 {
-      background-position-x: -189px;
+      @include annotation-icon-background-position-x(5);
     }
 
     &.level-R1 {
-      background-position-x: -219px;
+      @include annotation-icon-background-position-x(6);
     }
 
     &.level-1-R1 {
-      background-position-x: -249px;
+      @include annotation-icon-background-position-x(7);
     }
 
     &.level-2-R1 {
-      background-position-x: -279px;
+      @include annotation-icon-background-position-x(8);
     }
 
-    &.level-2A-R1 {
-      background-position-x: -279px;
-    }
-
-    &.level-2B-R1 {
-      background-position-x: -309px;
-    }
-
-    &.level-3A-R1 {
-      background-position-x: -339px;
-    }
-
-    &.level-3B-R1 {
-      background-position-x: -369px;
+    &.level-3-R1 {
+      @include annotation-icon-background-position-x(9);
     }
 
     &.level-4-R1 {
-      background-position-x: -399px;
+      @include annotation-icon-background-position-x(10);
     }
 
     &.level-R2 {
-      background-position-x: -429px;
+      @include annotation-icon-background-position-x(11);
     }
 
     &.level-1-R2 {
-      background-position-x: -459px;
+      @include annotation-icon-background-position-x(12);
     }
 
     &.level-2-R2 {
-      background-position-x: -489px;
+      @include annotation-icon-background-position-x(13);
     }
 
-    &.level-2A-R2 {
-      background-position-x: -489px;
-    }
-
-    &.level-2B-R2 {
-      background-position-x: -519px;
-    }
-
-    &.level-3A-R2 {
-      background-position-x: -549px;
-    }
-
-    &.level-3B-R2 {
-      background-position-x: -579px;
+    &.level-3-R2 {
+      @include annotation-icon-background-position-x(14);
     }
 
     &.level-4-R2 {
-      background-position-x: -609px;
+      @include annotation-icon-background-position-x(15);
     }
 
     &.level-R3 {
-      background-position-x: -639px;
+      @include annotation-icon-background-position-x(16);
     }
 
     &.level-1-R3 {
-      background-position-x: -669px;
+      @include annotation-icon-background-position-x(17);
     }
 
     &.level-2-R3 {
-      background-position-x: -699px;
-    }
-
-    &.level-2A-R3 {
-      background-position-x: -699px;
-    }
-
-    &.level-2B-R3 {
-      background-position-x: -729px;
+      @include annotation-icon-background-position-x(18);
     }
 
     &.level-3-R3 {
-      background-position-x: -759px;
+      @include annotation-icon-background-position-x(19);
     }
 
     &.level-4-R3 {
-      background-position-x: -789px;
+      @include annotation-icon-background-position-x(20);
     }
   }
 }

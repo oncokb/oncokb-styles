@@ -16,7 +16,7 @@ Example:
 When showing level 1, you should use `oncokb level-icon level-1`  
 
 Here is all possible icons:  
-![OncoKB Levle Icons](images/v3/level-icons.png )
+![OncoKB Levle Icons](images/v4/level-icons.png )
 
 
 ## Use annotation icon
