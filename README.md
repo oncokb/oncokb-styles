@@ -29,7 +29,7 @@ Example:
 When the annotation shows oncogenic, highest sensitive level is 3A, highest resistance level is R2, you should use `oncokb annotation-icon oncogenic level-3A-R2` 
 
 Here is all possible icons:  
-![OncoKB Annotation Icons](images/v3/annotation-icons.png)
+![OncoKB Annotation Icons](images/v4/annotation-icons.png)
 
 ## SVG images
 These images are converted by using https://image.online-convert.com/convert-to-png
