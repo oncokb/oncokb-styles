@@ -129,15 +129,15 @@
     }
 
     &.level-Px1 {
-      @include level-icon-background-position(1, 4);
+      @include level-icon-background-position(1, 5);
     }
 
     &.level-Px2 {
-      @include level-icon-background-position(2, 4);
+      @include level-icon-background-position(2, 5);
     }
 
     &.level-Px3 {
-      @include level-icon-background-position(3, 4);
+      @include level-icon-background-position(3, 5);
     }
   }
 
