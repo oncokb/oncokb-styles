@@ -1,5 +1,5 @@
 @mixin level-icon-background-position($x, $y) {
-  background-position-x: -(14px + ($x - 1) * 25px);
+  background-position-x: -(13px + ($x - 1) * 25px);
   background-position-y: -(20px + ($y - 1) * 30px);
 }
 
