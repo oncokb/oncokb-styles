@@ -10,22 +10,30 @@ $oncokb-color-inconclusive: #AAAAAA;
 $oncokb-color-vus: #696969;
 $oncokb-color-unknown: #CCCCCC;
 
+// Color tiers
+$oncokb-tier-1: #33A02C;
+$oncokb-tier-2: #1F78B4;
+$oncokb-tier-3: #984EA3;
+$oncokb-tier-4: #424242;
+
 // Colors of Therapeutic Levels
-$oncokb-color-level-1: #33A02C;
-$oncokb-color-level-2: #1F78B4;
-$oncokb-color-level-3: #984EA3;
-$oncokb-color-level-4: #424242;
+$oncokb-color-level-1: $oncokb-tier-1;
+$oncokb-color-level-2: $oncokb-tier-2;
+$oncokb-color-level-3: $oncokb-tier-3;
+$oncokb-color-level-3A: $oncokb-color-level-3;
+$oncokb-color-level-3B: #BE98CE;
+$oncokb-color-level-4: $oncokb-tier-4;
 $oncokb-color-level-R1: #EE3424;
 $oncokb-color-level-R2: #F79A92;
 $oncokb-color-level-R3: #FCD6D3;
 
 // Colors of Diagnostic Levels
-$oncokb-color-level-Dx1: #33A02C;
-$oncokb-color-level-Dx2: #1F78B4;
-$oncokb-color-level-Dx3: #984EA3;
+$oncokb-color-level-Dx1: $oncokb-tier-1;
+$oncokb-color-level-Dx2: $oncokb-tier-2;
+$oncokb-color-level-Dx3: $oncokb-tier-3;
 
 // Colors of Prognostic Levels
-$oncokb-color-level-Px1: #33A02C;
-$oncokb-color-level-Px2: #1F78B4;
-$oncokb-color-level-Px3: #984EA3;
+$oncokb-color-level-Px1: $oncokb-tier-1;
+$oncokb-color-level-Px2: $oncokb-tier-2;
+$oncokb-color-level-Px3: $oncokb-tier-3;
 

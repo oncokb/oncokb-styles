@@ -24,8 +24,6 @@
   }
 
   // Level colors
-
-
   &.level-1 {
     color: $oncokb-color-level-1;
   }
@@ -36,6 +34,14 @@
 
   &.level-3 {
     color: $oncokb-color-level-3;
+  }
+
+  &.level-3A {
+    color: $oncokb-color-level-3A;
+  }
+
+  &.level-3B {
+    color: $oncokb-color-level-3B;
   }
 
   &.level-4 {
@@ -78,114 +84,95 @@
     color: $oncokb-color-level-Px3;
   }
 
-  &.level-icon {
-    background-image: url('images/v4/level-icons.png');
+  &.icon {
+    background-image: url('images/v4/icons.png');
     width: 18px;
-    height: 16px;
+    height: 18px;
     flex-shrink: 0;
-    line-height: 16px;
-    background-size: 200px;
+    line-height: 18px;
+    // background size is the same of corresponding to the width of svg file
+    background-size: 170px;
     margin: 0 3px;
     display: block;
 
+    &.oncogenic, &.likely-oncogenic, &.predicted-oncogenic {
+      @include icon-background-position(1, 1);
+    }
+
+    &.neutral, &.likely-neutral{
+      @include icon-background-position(2, 1);
+    }
+
+    &.inconclusive {
+      @include icon-background-position(3, 1);
+    }
+
+    &.vus {
+      @include icon-background-position(4, 1);
+    }
+
+    &.unknown {
+      @include icon-background-position(5, 1);
+    }
+
     &.level-1 {
-      @include level-icon-background-position(1, 1);
+      @include icon-background-position(1, 2);
     }
 
     &.level-2 {
-      @include level-icon-background-position(2, 1);
+      @include icon-background-position(2, 2);
     }
 
     &.level-3 {
-      @include level-icon-background-position(3, 1);
+      @include icon-background-position(3, 2);
+    }
+
+    &.level-3A {
+      @include icon-background-position(4, 2);
+    }
+
+    &.level-3B {
+      @include icon-background-position(5, 2);
     }
 
     &.level-4 {
-      @include level-icon-background-position(4, 1);
+      @include icon-background-position(6, 2);
     }
 
     &.level-R1 {
-      @include level-icon-background-position(1, 2);
+      @include icon-background-position(1, 3);
     }
 
     &.level-R2 {
-      @include level-icon-background-position(2, 2);
+      @include icon-background-position(2, 3);
     }
 
     &.level-R3 {
-      @include level-icon-background-position(3, 2);
-    }
-
-    &.level-1-R1 {
-      @include level-icon-background-position(1, 31);
-    }
-
-    &.level-2-R1 {
-      @include level-icon-background-position(2, 31);
-    }
-
-    &.level-3-R1 {
-      @include level-icon-background-position(3, 31);
-    }
-
-    &.level-4-R1 {
-      @include level-icon-background-position(4, 31);
-    }
-
-    &.level-1-R2 {
-      @include level-icon-background-position(1, 32);
-    }
-
-    &.level-2-R2 {
-      @include level-icon-background-position(2, 32);
-    }
-
-    &.level-3-R2 {
-      @include level-icon-background-position(3, 32);
-    }
-
-    &.level-4-R2 {
-      @include level-icon-background-position(4, 32);
-    }
-
-    &.level-1-R3 {
-      @include level-icon-background-position(1, 33);
-    }
-
-    &.level-2-R3 {
-      @include level-icon-background-position(2, 33);
-    }
-
-    &.level-3-R3 {
-      @include level-icon-background-position(3, 33);
-    }
-
-    &.level-4-R3 {
-      @include level-icon-background-position(4, 33);
+      @include icon-background-position(3, 3);
     }
 
     &.level-Dx1 {
-      @include level-icon-background-position(1, 10);
+      @include icon-background-position(1, 4);
     }
 
     &.level-Dx2 {
-      @include level-icon-background-position(2, 10);
+      @include icon-background-position(2, 4);
     }
 
     &.level-Dx3 {
-      @include level-icon-background-position(3, 10);
+      @include icon-background-position(3, 4);
     }
 
     &.level-Px1 {
-      @include level-icon-background-position(1, 13);
+      @include icon-background-position(1, 5);
     }
 
     &.level-Px2 {
-      @include level-icon-background-position(2, 13);
+      @include icon-background-position(2, 5);
     }
 
     &.level-Px3 {
-      @include level-icon-background-position(3, 13);
+      @include icon-background-position(3, 5);
     }
   }
 
@@ -195,15 +182,14 @@
     height: 22px;
     line-height: 22px;
     // background size is the same of corresponding to the width of svg file
-    -webkit-background-size: 610px;
-    background-size: 610px;
+    background-size: 730px;
     display: block !important;
 
-    &.oncogenic {
+    &.oncogenic, &.likely-oncogenic, &.predicted-oncogenic {
       @include annotation-icon-background-position-y(1);
     }
 
-    &.neutral {
+    &.neutral, &.likely-neutral {
       @include annotation-icon-background-position-y(2);
     }
 
@@ -231,72 +217,88 @@
       @include annotation-icon-background-position-x(3);
     }
 
-    &.level-3 {
+    &.level-3, &.level-3A {
       @include annotation-icon-background-position-x(4);
     }
 
-    &.level-4 {
+    &.level-3B {
       @include annotation-icon-background-position-x(5);
     }
 
-    &.level-R1 {
+    &.level-4 {
       @include annotation-icon-background-position-x(6);
     }
 
-    &.level-1-R1 {
+    &.level-R1 {
       @include annotation-icon-background-position-x(7);
     }
 
-    &.level-2-R1 {
+    &.level-1-R1 {
       @include annotation-icon-background-position-x(8);
     }
 
-    &.level-3-R1 {
+    &.level-2-R1 {
       @include annotation-icon-background-position-x(9);
     }
 
-    &.level-4-R1 {
+    &.level-3-R1, &.level-3A-R1 {
       @include annotation-icon-background-position-x(10);
     }
 
-    &.level-R2 {
+    &.level-3B-R1 {
       @include annotation-icon-background-position-x(11);
     }
 
-    &.level-1-R2 {
+    &.level-4-R1 {
       @include annotation-icon-background-position-x(12);
     }
 
-    &.level-2-R2 {
+    &.level-R2 {
       @include annotation-icon-background-position-x(13);
     }
 
-    &.level-3-R2 {
+    &.level-1-R2 {
       @include annotation-icon-background-position-x(14);
     }
 
-    &.level-4-R2 {
+    &.level-2-R2 {
       @include annotation-icon-background-position-x(15);
     }
 
-    &.level-R3 {
+    &.level-3-R2, &.level-3A-R2 {
       @include annotation-icon-background-position-x(16);
     }
 
-    &.level-1-R3 {
+    &.level-3B-R2 {
       @include annotation-icon-background-position-x(17);
     }
 
-    &.level-2-R3 {
+    &.level-4-R2 {
       @include annotation-icon-background-position-x(18);
     }
 
-    &.level-3-R3 {
+    &.level-R3 {
       @include annotation-icon-background-position-x(19);
     }
 
-    &.level-4-R3 {
+    &.level-1-R3 {
       @include annotation-icon-background-position-x(20);
+    }
+
+    &.level-2-R3 {
+      @include annotation-icon-background-position-x(21);
+    }
+
+    &.level-3-R3, &.level-3A-R3 {
+      @include annotation-icon-background-position-x(22);
+    }
+
+    &.level-3B-R3 {
+      @include annotation-icon-background-position-x(23);
+    }
+
+    &.level-4-R3 {
+      @include annotation-icon-background-position-x(24);
     }
   }
 }
