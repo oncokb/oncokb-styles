@@ -1,5 +1,8 @@
 # OncoKB Styles
 
+## Status
+![NPM Publish](https://github.com/oncokb/styles/workflows/NPM%20Publish/badge.svg) ![Application CI](https://github.com/oncokb/styles/workflows/Application%20CI/badge.svg) ![Release Management](https://github.com/oncokb/styles/workflows/Release%20Management/badge.svg)
+
 ## Use css colors
 Please use class name `oncokb {color}`
 
