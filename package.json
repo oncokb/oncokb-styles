@@ -18,6 +18,9 @@
     "type": "git",
     "url": "https://github.com/oncokb/styles.git"
   },
+  "engines": {
+    "node": ">=12.16.1"
+  },
   "devDependencies": {
     "del": "^5.0.0",
     "gulp": "^4.0.2",
