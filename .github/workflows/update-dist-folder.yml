@@ -1,0 +1,29 @@
+name: Update dist folder after making changes
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+      - name: Install node.js packages
+        run: npm install
+      - name: Package application
+        run: gulp build
+      - name: 'Update dist folder'
+        run: |
+          CHANGED=$(git diff --name-only HEAD --)
+          if [ -n "$CHANGED" ]
+          then
+            git config user.name oncokb-bot
+            git config user.email dev@oncokb.org
+            git add .
+            git commit -m 'Update dist folder'
+            git push
+          fi
