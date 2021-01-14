@@ -1,0 +1,12 @@
+@mixin icon-background-position($x, $y) {
+  background-position-x: -(13px + ($x - 1) * 25px);
+  background-position-y: -(19px + ($y - 1) * 30px);
+}
+
+@mixin annotation-icon-background-position-x($x) {
+  background-position-x: -(9px + ($x - 1) * 30px);
+}
+
+@mixin annotation-icon-background-position-y($y) {
+  background-position-y: -(9px + ($y - 1) * 30px);
+}
