@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18">
+
+  <!--Oncogenic icons-->
+  <g transform="translate(9, 9)">
+    <circle r="6" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+    <circle r="3" fill="none" stroke-width="2" stroke="#007FFF"></circle>
+    <circle r="1.5" fill="#007FFF" stroke="none"></circle>
+  </g>
+  <g transform="translate(14.5, 3.5)">
+    <circle r="4" fill="#33A02C" stroke="#ffffff" stroke-width="1"></circle>
+  </g>
+  <g transform="translate(14.5, 14.5)">
+    <circle r="4" fill="#EE3424" stroke="#ffffff" stroke-width="1"></circle>
+  </g>
+  <g transform="translate(-0.5, -0.5)">
+    <rect width="7" height="7" fill="#33A02C" stroke="#ffffff" stroke-width="1"></rect>
+  </g>
+  <g transform="translate(0, 10.5)">
+    <polygon points="3.5 0, 8 8, -1 8" fill="#33A02C" stroke="#ffffff" stroke-width="1"/>
+  </g>
+
+</svg>
