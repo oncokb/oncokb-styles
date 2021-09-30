@@ -7,9 +7,9 @@
     <g transform="translate(10, 10)">
         <g transform="translate(5 ,5)">
             <g transform="translate(7, 13)">
-                <circle r="7" fill="none" stroke-width="2" stroke="#1C75CD"></circle>
-                <circle r="4" fill="none" stroke-width="2" stroke="#1C75CD"></circle>
-                <circle r="2" fill="#1C75CD" stroke="none"></circle>
+                <circle r="7" fill="none" stroke-width="2" stroke="#0968C3"></circle>
+                <circle r="4" fill="none" stroke-width="2" stroke="#0968C3"></circle>
+                <circle r="2" fill="#0968C3" stroke="none"></circle>
             </g>
         </g>
         <g transform="translate(30 ,5)">
