@@ -9,16 +9,16 @@
 
       <g transform="translate(0, 0)">
         <g transform="translate(7, 13)">
-          <circle r="6" fill="none" stroke-width="2" stroke="#1C75CD"></circle>
-          <circle r="3" fill="none" stroke-width="2" stroke="#1C75CD"></circle>
-          <circle r="1.5" fill="#1C75CD" stroke="none"></circle>
+          <circle r="6" fill="none" stroke-width="2" stroke="#0968C3"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#0968C3"></circle>
+          <circle r="1.5" fill="#0968C3" stroke="none"></circle>
         </g>
       </g>
       <g transform="translate(30, 0)">
         <g transform="translate(7, 13)">
-          <circle r="6" fill="none" stroke-width="2" stroke="#1C75CD"></circle>
-          <circle r="3" fill="none" stroke-width="2" stroke="#1C75CD"></circle>
-          <circle r="1.5" fill="#1C75CD" stroke="none"></circle>
+          <circle r="6" fill="none" stroke-width="2" stroke="#0968C3"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#0968C3"></circle>
+          <circle r="1.5" fill="#0968C3" stroke="none"></circle>
         </g>
         <g transform="translate(0, 6)">
           <circle transform="translate(13, 0)" r="6" fill="#33A02C"></circle>
@@ -27,9 +27,9 @@
       </g>
       <g transform="translate(60, 0)">
         <g transform="translate(7, 13)">
-          <circle r="6" fill="none" stroke-width="2" stroke="#1C75CD"></circle>
-          <circle r="3" fill="none" stroke-width="2" stroke="#1C75CD"></circle>
-          <circle r="1.5" fill="#1C75CD" stroke="none"></circle>
+          <circle r="6" fill="none" stroke-width="2" stroke="#0968C3"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#0968C3"></circle>
+          <circle r="1.5" fill="#0968C3" stroke="none"></circle>
         </g>
         <g transform="translate(0, 6)">
           <circle transform="translate(13, 0)" r="6" fill="#1F78B4"></circle>
@@ -38,9 +38,9 @@
       </g>
       <g transform="translate(90, 0)">
         <g transform="translate(7, 13)">
-          <circle r="6" fill="none" stroke-width="2" stroke="#1C75CD"></circle>
-          <circle r="3" fill="none" stroke-width="2" stroke="#1C75CD"></circle>
-          <circle r="1.5" fill="#1C75CD" stroke="none"></circle>
+          <circle r="6" fill="none" stroke-width="2" stroke="#0968C3"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#0968C3"></circle>
+          <circle r="1.5" fill="#0968C3" stroke="none"></circle>
         </g>
         <g transform="translate(0, 6)">
           <circle transform="translate(13, 0)" r="6" fill="#984EA3"></circle>
@@ -49,9 +49,9 @@
       </g>
       <g transform="translate(120, 0)">
         <g transform="translate(7, 13)">
-          <circle r="6" fill="none" stroke-width="2" stroke="#1C75CD"></circle>
-          <circle r="3" fill="none" stroke-width="2" stroke="#1C75CD"></circle>
-          <circle r="1.5" fill="#1C75CD" stroke="none"></circle>
+          <circle r="6" fill="none" stroke-width="2" stroke="#0968C3"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#0968C3"></circle>
+          <circle r="1.5" fill="#0968C3" stroke="none"></circle>
         </g>
         <g transform="translate(0, 6)">
           <circle transform="translate(13, 0)" r="6" fill="#BE98CE"></circle>
@@ -60,9 +60,9 @@
       </g>
       <g transform="translate(150, 0)">
         <g transform="translate(7, 13)">
-          <circle r="6" fill="none" stroke-width="2" stroke="#1C75CD"></circle>
-          <circle r="3" fill="none" stroke-width="2" stroke="#1C75CD"></circle>
-          <circle r="1.5" fill="#1C75CD" stroke="none"></circle>
+          <circle r="6" fill="none" stroke-width="2" stroke="#0968C3"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#0968C3"></circle>
+          <circle r="1.5" fill="#0968C3" stroke="none"></circle>
         </g>
         <g transform="translate(0, 6)">
           <circle transform="translate(13, 0)" r="6" fill="#424242"></circle>
@@ -75,9 +75,9 @@
     <g transform="translate(180, 0)">
       <g transform="translate(0, 0)">
         <g transform="translate(7, 13)">
-          <circle r="6" fill="none" stroke-width="2" stroke="#1C75CD"></circle>
-          <circle r="3" fill="none" stroke-width="2" stroke="#1C75CD"></circle>
-          <circle r="1.5" fill="#1C75CD" stroke="none"></circle>
+          <circle r="6" fill="none" stroke-width="2" stroke="#0968C3"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#0968C3"></circle>
+          <circle r="1.5" fill="#0968C3" stroke="none"></circle>
         </g>
         <g transform="translate(0, 6)">
           <circle transform="translate(13, 0)" r="6" fill="#EE3424"></circle>
@@ -86,9 +86,9 @@
       </g>
       <g transform="translate(30, 0)">
         <g transform="translate(7, 13)">
-          <circle r="6" fill="none" stroke-width="2" stroke="#1C75CD"></circle>
-          <circle r="3" fill="none" stroke-width="2" stroke="#1C75CD"></circle>
-          <circle r="1.5" fill="#1C75CD" stroke="none"></circle>
+          <circle r="6" fill="none" stroke-width="2" stroke="#0968C3"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#0968C3"></circle>
+          <circle r="1.5" fill="#0968C3" stroke="none"></circle>
         </g>
         <g transform="translate(0, 6)">
           <circle transform="translate(9, 0)" r="6" fill="#EE3424"></circle>
@@ -98,9 +98,9 @@
       </g>
       <g transform="translate(60, 0)">
         <g transform="translate(7, 13)">
-          <circle r="6" fill="none" stroke-width="2" stroke="#1C75CD"></circle>
-          <circle r="3" fill="none" stroke-width="2" stroke="#1C75CD"></circle>
-          <circle r="1.5" fill="#1C75CD" stroke="none"></circle>
+          <circle r="6" fill="none" stroke-width="2" stroke="#0968C3"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#0968C3"></circle>
+          <circle r="1.5" fill="#0968C3" stroke="none"></circle>
         </g>
         <g transform="translate(0, 6)">
           <circle transform="translate(9, 0)" r="6" fill="#EE3424"></circle>
@@ -110,9 +110,9 @@
       </g>
       <g transform="translate(90, 0)">
         <g transform="translate(7, 13)">
-          <circle r="6" fill="none" stroke-width="2" stroke="#1C75CD"></circle>
-          <circle r="3" fill="none" stroke-width="2" stroke="#1C75CD"></circle>
-          <circle r="1.5" fill="#1C75CD" stroke="none"></circle>
+          <circle r="6" fill="none" stroke-width="2" stroke="#0968C3"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#0968C3"></circle>
+          <circle r="1.5" fill="#0968C3" stroke="none"></circle>
         </g>
         <g transform="translate(0, 6)">
           <circle transform="translate(9, 0)" r="6" fill="#EE3424"></circle>
@@ -122,9 +122,9 @@
       </g>
       <g transform="translate(120, 0)">
         <g transform="translate(7, 13)">
-          <circle r="6" fill="none" stroke-width="2" stroke="#1C75CD"></circle>
-          <circle r="3" fill="none" stroke-width="2" stroke="#1C75CD"></circle>
-          <circle r="1.5" fill="#1C75CD" stroke="none"></circle>
+          <circle r="6" fill="none" stroke-width="2" stroke="#0968C3"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#0968C3"></circle>
+          <circle r="1.5" fill="#0968C3" stroke="none"></circle>
         </g>
         <g transform="translate(0, 6)">
           <circle transform="translate(9, 0)" r="6" fill="#EE3424"></circle>
@@ -134,9 +134,9 @@
       </g>
       <g transform="translate(150, 0)">
         <g transform="translate(7, 13)">
-          <circle r="6" fill="none" stroke-width="2" stroke="#1C75CD"></circle>
-          <circle r="3" fill="none" stroke-width="2" stroke="#1C75CD"></circle>
-          <circle r="1.5" fill="#1C75CD" stroke="none"></circle>
+          <circle r="6" fill="none" stroke-width="2" stroke="#0968C3"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#0968C3"></circle>
+          <circle r="1.5" fill="#0968C3" stroke="none"></circle>
         </g>
         <g transform="translate(0, 6)">
           <circle transform="translate(9, 0)" r="6" fill="#EE3424"></circle>
@@ -150,9 +150,9 @@
     <g transform="translate(360, 0)">
       <g transform="translate(0, 0)">
         <g transform="translate(7, 13)">
-          <circle r="6" fill="none" stroke-width="2" stroke="#1C75CD"></circle>
-          <circle r="3" fill="none" stroke-width="2" stroke="#1C75CD"></circle>
-          <circle r="1.5" fill="#1C75CD" stroke="none"></circle>
+          <circle r="6" fill="none" stroke-width="2" stroke="#0968C3"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#0968C3"></circle>
+          <circle r="1.5" fill="#0968C3" stroke="none"></circle>
         </g>
         <g transform="translate(0, 6)">
           <circle transform="translate(13, 0)" r="6" fill="#F79A92"></circle>
@@ -161,9 +161,9 @@
       </g>
       <g transform="translate(30, 0)">
         <g transform="translate(7, 13)">
-          <circle r="6" fill="none" stroke-width="2" stroke="#1C75CD"></circle>
-          <circle r="3" fill="none" stroke-width="2" stroke="#1C75CD"></circle>
-          <circle r="1.5" fill="#1C75CD" stroke="none"></circle>
+          <circle r="6" fill="none" stroke-width="2" stroke="#0968C3"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#0968C3"></circle>
+          <circle r="1.5" fill="#0968C3" stroke="none"></circle>
         </g>
         <g transform="translate(0, 6)">
           <circle transform="translate(9, 0)" r="6" fill="#F79A92"></circle>
@@ -173,9 +173,9 @@
       </g>
       <g transform="translate(60, 0)">
         <g transform="translate(7, 13)">
-          <circle r="6" fill="none" stroke-width="2" stroke="#1C75CD"></circle>
-          <circle r="3" fill="none" stroke-width="2" stroke="#1C75CD"></circle>
-          <circle r="1.5" fill="#1C75CD" stroke="none"></circle>
+          <circle r="6" fill="none" stroke-width="2" stroke="#0968C3"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#0968C3"></circle>
+          <circle r="1.5" fill="#0968C3" stroke="none"></circle>
         </g>
         <g transform="translate(0, 6)">
           <circle transform="translate(9, 0)" r="6" fill="#F79A92"></circle>
@@ -185,9 +185,9 @@
       </g>
       <g transform="translate(90, 0)">
         <g transform="translate(7, 13)">
-          <circle r="6" fill="none" stroke-width="2" stroke="#1C75CD"></circle>
-          <circle r="3" fill="none" stroke-width="2" stroke="#1C75CD"></circle>
-          <circle r="1.5" fill="#1C75CD" stroke="none"></circle>
+          <circle r="6" fill="none" stroke-width="2" stroke="#0968C3"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#0968C3"></circle>
+          <circle r="1.5" fill="#0968C3" stroke="none"></circle>
         </g>
         <g transform="translate(0, 6)">
           <circle transform="translate(9, 0)" r="6" fill="#F79A92"></circle>
@@ -197,9 +197,9 @@
       </g>
       <g transform="translate(120, 0)">
         <g transform="translate(7, 13)">
-          <circle r="6" fill="none" stroke-width="2" stroke="#1C75CD"></circle>
-          <circle r="3" fill="none" stroke-width="2" stroke="#1C75CD"></circle>
-          <circle r="1.5" fill="#1C75CD" stroke="none"></circle>
+          <circle r="6" fill="none" stroke-width="2" stroke="#0968C3"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#0968C3"></circle>
+          <circle r="1.5" fill="#0968C3" stroke="none"></circle>
         </g>
         <g transform="translate(0, 6)">
           <circle transform="translate(9, 0)" r="6" fill="#F79A92"></circle>
@@ -209,9 +209,9 @@
       </g>
       <g transform="translate(150, 0)">
         <g transform="translate(7, 13)">
-          <circle r="6" fill="none" stroke-width="2" stroke="#1C75CD"></circle>
-          <circle r="3" fill="none" stroke-width="2" stroke="#1C75CD"></circle>
-          <circle r="1.5" fill="#1C75CD" stroke="none"></circle>
+          <circle r="6" fill="none" stroke-width="2" stroke="#0968C3"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#0968C3"></circle>
+          <circle r="1.5" fill="#0968C3" stroke="none"></circle>
         </g>
         <g transform="translate(0, 6)">
           <circle transform="translate(9, 0)" r="6" fill="#F79A92"></circle>
@@ -225,9 +225,9 @@
     <g transform="translate(540, 0)">
       <g transform="translate(0, 0)">
         <g transform="translate(7, 13)">
-          <circle r="6" fill="none" stroke-width="2" stroke="#1C75CD"></circle>
-          <circle r="3" fill="none" stroke-width="2" stroke="#1C75CD"></circle>
-          <circle r="1.5" fill="#1C75CD" stroke="none"></circle>
+          <circle r="6" fill="none" stroke-width="2" stroke="#0968C3"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#0968C3"></circle>
+          <circle r="1.5" fill="#0968C3" stroke="none"></circle>
         </g>
         <g transform="translate(0, 6)">
           <circle transform="translate(13, 0)" r="6" fill="#FCD6D3"></circle>
@@ -236,9 +236,9 @@
       </g>
       <g transform="translate(30, 0)">
         <g transform="translate(7, 13)">
-          <circle r="6" fill="none" stroke-width="2" stroke="#1C75CD"></circle>
-          <circle r="3" fill="none" stroke-width="2" stroke="#1C75CD"></circle>
-          <circle r="1.5" fill="#1C75CD" stroke="none"></circle>
+          <circle r="6" fill="none" stroke-width="2" stroke="#0968C3"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#0968C3"></circle>
+          <circle r="1.5" fill="#0968C3" stroke="none"></circle>
         </g>
         <g transform="translate(0, 6)">
           <circle transform="translate(9, 0)" r="6" fill="#FCD6D3"></circle>
@@ -248,9 +248,9 @@
       </g>
       <g transform="translate(60, 0)">
         <g transform="translate(7, 13)">
-          <circle r="6" fill="none" stroke-width="2" stroke="#1C75CD"></circle>
-          <circle r="3" fill="none" stroke-width="2" stroke="#1C75CD"></circle>
-          <circle r="1.5" fill="#1C75CD" stroke="none"></circle>
+          <circle r="6" fill="none" stroke-width="2" stroke="#0968C3"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#0968C3"></circle>
+          <circle r="1.5" fill="#0968C3" stroke="none"></circle>
         </g>
         <g transform="translate(0, 6)">
           <circle transform="translate(9, 0)" r="6" fill="#FCD6D3"></circle>
@@ -260,9 +260,9 @@
       </g>
       <g transform="translate(90, 0)">
         <g transform="translate(7, 13)">
-          <circle r="6" fill="none" stroke-width="2" stroke="#1C75CD"></circle>
-          <circle r="3" fill="none" stroke-width="2" stroke="#1C75CD"></circle>
-          <circle r="1.5" fill="#1C75CD" stroke="none"></circle>
+          <circle r="6" fill="none" stroke-width="2" stroke="#0968C3"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#0968C3"></circle>
+          <circle r="1.5" fill="#0968C3" stroke="none"></circle>
         </g>
         <g transform="translate(0, 6)">
           <circle transform="translate(9, 0)" r="6" fill="#FCD6D3"></circle>
@@ -272,9 +272,9 @@
       </g>
       <g transform="translate(120, 0)">
         <g transform="translate(7, 13)">
-          <circle r="6" fill="none" stroke-width="2" stroke="#1C75CD"></circle>
-          <circle r="3" fill="none" stroke-width="2" stroke="#1C75CD"></circle>
-          <circle r="1.5" fill="#1C75CD" stroke="none"></circle>
+          <circle r="6" fill="none" stroke-width="2" stroke="#0968C3"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#0968C3"></circle>
+          <circle r="1.5" fill="#0968C3" stroke="none"></circle>
         </g>
         <g transform="translate(0, 6)">
           <circle transform="translate(9, 0)" r="6" fill="#FCD6D3"></circle>
@@ -284,9 +284,9 @@
       </g>
       <g transform="translate(150, 0)">
         <g transform="translate(7, 13)">
-          <circle r="6" fill="none" stroke-width="2" stroke="#1C75CD"></circle>
-          <circle r="3" fill="none" stroke-width="2" stroke="#1C75CD"></circle>
-          <circle r="1.5" fill="#1C75CD" stroke="none"></circle>
+          <circle r="6" fill="none" stroke-width="2" stroke="#0968C3"></circle>
+          <circle r="3" fill="none" stroke-width="2" stroke="#0968C3"></circle>
+          <circle r="1.5" fill="#0968C3" stroke="none"></circle>
         </g>
         <g transform="translate(0, 6)">
           <circle transform="translate(9, 0)" r="6" fill="#FCD6D3"></circle>
