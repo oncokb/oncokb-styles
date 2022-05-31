@@ -1,6 +1,6 @@
 {
   "name": "oncokb-styles",
-  "version": "1.4.0-alpha.0",
+  "version": "1.4.1",
   "description": "OncoKB Styles",
   "main": "dist/css/oncokb.css",
   "keywords": [
