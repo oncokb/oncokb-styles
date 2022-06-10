@@ -3,7 +3,7 @@
 
 .oncokb {
   // Oncogenicity colors
-  &.oncogenic, &.likely-oncogenic, &.predicted-oncogenic, &.resistance {
+  &.oncogenic, &.likely-oncogenic, &.resistance {
     color: $oncokb-color-oncogenic;
   }
 
@@ -95,7 +95,7 @@
     margin: 0 3px;
     display: block;
 
-    &.oncogenic, &.likely-oncogenic, &.predicted-oncogenic, &.resistance {
+    &.oncogenic, &.likely-oncogenic, &.resistance {
       @include icon-background-position(1, 1);
     }
 
@@ -185,7 +185,7 @@
     background-size: 730px;
     display: block !important;
 
-    &.oncogenic, &.likely-oncogenic, &.predicted-oncogenic, &.resistance {
+    &.oncogenic, &.likely-oncogenic, &.resistance {
       @include annotation-icon-background-position-y(1);
     }
 
