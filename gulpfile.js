@@ -8,6 +8,7 @@ var del = require('del');
 var config = {
   dist: 'dist/',
   src: './',
+  markdown: './**/*.md',
   imgin: 'images/**/*.{jpg,jpeg,png,gif,svg}',
   scssin: 'scss/**/*.scss',
   cssout: 'dist/css/',
@@ -29,12 +30,17 @@ gulp.task('img', function() {
     .pipe(gulp.dest(config.imgout));
 });
 
+gulp.task('copy-markdown', function() {
+  return gulp.src(config.markdown)
+    .pipe(gulp.dest(config.dist));
+});
+
 gulp.task('clean', function() {
   return del([config.dist]);
 });
 
 gulp.task('build',
     gulp.series('clean',
-        gulp.parallel('sass', 'img')
+        gulp.parallel('sass', 'img', 'copy-markdown')
     )
 );
