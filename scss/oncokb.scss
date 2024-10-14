@@ -85,94 +85,16 @@
   }
 
   &.icon {
-    background-image: url('images/v4/icons.png');
-    width: 18px;
-    height: 18px;
-    flex-shrink: 0;
-    line-height: 18px;
-    // background size is the same of corresponding to the width of svg file
-    background-size: 170px;
-    margin: 0 3px;
-    display: block;
+    @include icon-size();
 
-    &.oncogenic, &.likely-oncogenic, &.resistance {
-      @include icon-background-position(1, 1);
+    // Scale for 2x
+    &.s2 {
+      @include icon-size(2);
     }
 
-    &.neutral, &.likely-neutral{
-      @include icon-background-position(2, 1);
-    }
-
-    &.inconclusive {
-      @include icon-background-position(3, 1);
-    }
-
-    &.vus {
-      @include icon-background-position(4, 1);
-    }
-
-    &.unknown {
-      @include icon-background-position(5, 1);
-    }
-
-    &.level-1 {
-      @include icon-background-position(1, 2);
-    }
-
-    &.level-2 {
-      @include icon-background-position(2, 2);
-    }
-
-    &.level-3 {
-      @include icon-background-position(3, 2);
-    }
-
-    &.level-3A {
-      @include icon-background-position(4, 2);
-    }
-
-    &.level-3B {
-      @include icon-background-position(5, 2);
-    }
-
-    &.level-4 {
-      @include icon-background-position(6, 2);
-    }
-
-    &.level-R1 {
-      @include icon-background-position(1, 3);
-    }
-
-    &.level-R2 {
-      @include icon-background-position(2, 3);
-    }
-
-    &.level-R3 {
-      @include icon-background-position(3, 3);
-    }
-
-    &.level-Dx1 {
-      @include icon-background-position(1, 4);
-    }
-
-    &.level-Dx2 {
-      @include icon-background-position(2, 4);
-    }
-
-    &.level-Dx3 {
-      @include icon-background-position(3, 4);
-    }
-
-    &.level-Px1 {
-      @include icon-background-position(1, 5);
-    }
-
-    &.level-Px2 {
-      @include icon-background-position(2, 5);
-    }
-
-    &.level-Px3 {
-      @include icon-background-position(3, 5);
+    // Scale for 3x
+    &.s3 {
+      @include icon-size(3);
     }
   }
 

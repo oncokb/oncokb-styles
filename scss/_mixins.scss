@@ -1,12 +1,104 @@
-@mixin icon-background-position($x, $y) {
-  background-position-x: -(13px + ($x - 1) * 25px);
-  background-position-y: -(19px + ($y - 1) * 30px);
+@mixin icon-background-position($x, $y, $scale:1) {
+  background-position-x: -(13px + ($x - 1) * 25px) * $scale;
+  background-position-y: -(19px + ($y - 1) * 30px) * $scale;
 }
 
-@mixin annotation-icon-background-position-x($x) {
-  background-position-x: -(9px + ($x - 1) * 30px);
+@mixin annotation-icon-background-position-x($x, $scale:1) {
+  background-position-x: -(9px + ($x - 1) * 30px) * $scale;
 }
 
-@mixin annotation-icon-background-position-y($y) {
-  background-position-y: -(9px + ($y - 1) * 30px);
+@mixin annotation-icon-background-position-y($y, $scale:1) {
+  background-position-y: -(9px + ($y - 1) * 30px) * $scale;
+}
+
+@mixin icon-size($scale:1) {
+  background-image: url('images/v4/icons.png');
+  width: 18px * $scale;
+  height: 18px * $scale;
+  flex-shrink: 0;
+  line-height: 18px * $scale;
+  // background size is the same of corresponding to the width of svg file
+  background-size: 170px * $scale;
+  margin: 0 3px;
+  display: block;
+
+  &.oncogenic, &.likely-oncogenic, &.resistance {
+    @include icon-background-position(1, 1, $scale);
+  }
+
+  &.neutral, &.likely-neutral {
+    @include icon-background-position(2, 1, $scale);
+  }
+
+  &.inconclusive {
+    @include icon-background-position(3, 1, $scale);
+  }
+
+  &.vus {
+    @include icon-background-position(4, 1, $scale);
+  }
+
+  &.unknown {
+    @include icon-background-position(5, 1, $scale);
+  }
+
+  &.level-1 {
+    @include icon-background-position(1, 2, $scale);
+  }
+
+  &.level-2 {
+    @include icon-background-position(2, 2, $scale);
+  }
+
+  &.level-3 {
+    @include icon-background-position(3, 2, $scale);
+  }
+
+  &.level-3A {
+    @include icon-background-position(4, 2, $scale);
+  }
+
+  &.level-3B {
+    @include icon-background-position(5, 2, $scale);
+  }
+
+  &.level-4 {
+    @include icon-background-position(6, 2, $scale);
+  }
+
+  &.level-R1 {
+    @include icon-background-position(1, 3, $scale);
+  }
+
+  &.level-R2 {
+    @include icon-background-position(2, 3, $scale);
+  }
+
+  &.level-R3 {
+    @include icon-background-position(3, 3, $scale);
+  }
+
+  &.level-Dx1 {
+    @include icon-background-position(1, 4, $scale);
+  }
+
+  &.level-Dx2 {
+    @include icon-background-position(2, 4, $scale);
+  }
+
+  &.level-Dx3 {
+    @include icon-background-position(3, 4, $scale);
+  }
+
+  &.level-Px1 {
+    @include icon-background-position(1, 5, $scale);
+  }
+
+  &.level-Px2 {
+    @include icon-background-position(2, 5, $scale);
+  }
+
+  &.level-Px3 {
+    @include icon-background-position(3, 5, $scale);
+  }
 }
