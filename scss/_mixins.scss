@@ -1,6 +1,6 @@
 @mixin icon-background-position($x, $y, $scale:1) {
   background-position-x: -(13px + ($x - 1) * 25px) * $scale;
-  background-position-y: -(19px + ($y - 1) * 30px) * $scale;
+  background-position-y: -(20px + ($y - 1) * 30px) * $scale;
 }
 
 @mixin annotation-icon-background-position-x($x, $scale:1) {
@@ -14,9 +14,9 @@
 @mixin icon-size($scale:1) {
   background-image: url('images/v4/icons.png');
   width: 18px * $scale;
-  height: 18px * $scale;
+  height: 16px * $scale;
   flex-shrink: 0;
-  line-height: 18px * $scale;
+  line-height: 16px * $scale;
   // background size is the same of corresponding to the width of svg file
   background-size: 170px * $scale;
   margin: 0 3px;
