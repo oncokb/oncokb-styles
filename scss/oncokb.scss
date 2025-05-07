@@ -85,14 +85,15 @@
   }
 
   &.icon {
-    background-image: url('images/v4/icons.png');
-    width: 18px;
-    height: 18px;
+    --scaling-factor: 1;
+
+    background-image: url('images/v4/icons.svg');
+    width: calc(18px / (1 / var(--scaling-factor)));
+    height: calc(18px / (1 / var(--scaling-factor)));
     flex-shrink: 0;
-    line-height: 18px;
+    line-height: calc(18px / (1 / var(--scaling-factor)));
     // background size is the same of corresponding to the width of svg file
-    background-size: 170px;
-    margin: 0 3px;
+    background-size: calc(170px / (1 / var(--scaling-factor)));
     display: block;
 
     &.oncogenic, &.likely-oncogenic, &.resistance {
@@ -177,12 +178,14 @@
   }
 
   &.annotation-icon {
-    background-image: url('images/v4/annotation-icons.png');
-    width: 22px;
-    height: 22px;
-    line-height: 22px;
+    --scaling-factor: 1;
+    
+    background-image: url('images/v4/annotation-icons.svg');
+    width: calc(22px / (1 / var(--scaling-factor)));
+    height: calc(22px / (1 / var(--scaling-factor)));
+    line-height: calc(22px / (1 / var(--scaling-factor)));
     // background size is the same of corresponding to the width of svg file
-    background-size: 730px;
+    background-size: calc(730px / (1 / var(--scaling-factor)));
     display: block !important;
 
     &.oncogenic, &.likely-oncogenic, &.resistance {
