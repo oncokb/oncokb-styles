@@ -1,12 +1,17 @@
-@mixin icon-background-position($x, $y) {
-  background-position-x: -(13px + ($x - 1) * 25px);
-  background-position-y: -(19px + ($y - 1) * 30px);
+@mixin icon-background-position($x, $y, $scaling-factor-var: '--scaling-factor') {
+  $base-background-position-x: -(13px + ($x - 1) * 25px);
+  $base-background-position-y: -(19px + ($y - 1) * 30px);
+
+  background-position-x: calc(#{$base-background-position-x} / (1 / var(#{$scaling-factor-var})));
+  background-position-y: calc(#{$base-background-position-y} / (1 / var(#{$scaling-factor-var})));
 }
 
-@mixin annotation-icon-background-position-x($x) {
-  background-position-x: -(9px + ($x - 1) * 30px);
+@mixin annotation-icon-background-position-x($x, $scaling-factor-var: '--scaling-factor') {
+  $base-background-position-x: -(9px + ($x - 1) * 30px);
+  background-position-x: calc(#{$base-background-position-x} / (1 / var(#{$scaling-factor-var})));
 }
 
-@mixin annotation-icon-background-position-y($y) {
-  background-position-y: -(9px + ($y - 1) * 30px);
+@mixin annotation-icon-background-position-y($y, $scaling-factor-var: '--scaling-factor') {
+  $base-background-position-y: -(9px + ($y - 1) * 30px);
+  background-position-y: calc(#{$base-background-position-y} / (1 / var(#{$scaling-factor-var})));
 }

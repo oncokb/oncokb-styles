@@ -42,6 +42,13 @@ The list of icons are for oncogenicity and therapeutic levels. Dx/Px are not inc
 | sensitive level  | 1, 2, 3, 3A, 3B, 4                                                                           |
 | resistance level | R1, R2, R3                                                                                   |
 
+## Scaling 
+
+For any icon you may scale it up or down by a numerical factor. Simply set the `--scaling-factor` css variable on your HTML element. For example, to double the size of an icon, you may write:
+```html
+<span class="oncokb icon oncogenic" style="--scaling-factor: 2"></span>
+```
+
 ### Example
 When the annotation shows oncogenic, highest sensitive level is 3A, highest resistance level is R2, you should use `oncokb annotation-icon oncogenic level-3A-R2` 
 When the annotation with only oncogenicity, you should use `oncokb annotation-icon oncogenic no-level`
