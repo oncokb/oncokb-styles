@@ -175,6 +175,11 @@
     &.level-Px3 {
       @include icon-background-position(3, 5);
     }
+
+    &.hotspot {
+      background-image: url('images/v4/hotspot-icon.svg');
+      background-size: contain;
+    }
   }
 
   &.annotation-icon {
