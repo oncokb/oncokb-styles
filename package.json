@@ -22,7 +22,7 @@
     "del": "^5.0.0",
     "gulp": "^4.0.2",
     "gulp-changed": "^4.0.0",
-    "gulp-imagemin": "^6.0.0",
+    "gulp-imagemin": "^9.2.0",
     "gulp-sass": "^4.0.2",
     "gulp-sourcemaps": "^2.6.5",
     "gulp-watch": "^5.0.1"
