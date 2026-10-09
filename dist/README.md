@@ -58,3 +58,9 @@ When the annotation with only oncogenicity, you should use `oncokb annotation-ic
 
 ## SVG images
 These images are converted by using https://image.online-convert.com/convert-to-png
+
+## License
+
+The code, stylesheets and icons in this repository are licensed under the [Apache License 2.0](LICENSE). Releases up to and including 1.8.0 were licensed under AGPL-3.0.
+
+The OncoKB logos (`images/logo/`) and the Memorial Sloan Kettering logos (`images/msk/`), including their copies under `dist/images/`, are trademarks of Memorial Sloan Kettering Cancer Center. They are not licensed under the Apache License 2.0; use them only to refer to OncoKB or MSK.
