@@ -11,7 +11,7 @@
   ],
   "homepage": "https://www.oncokb.org",
   "author": "The OncoKB Authors (https://github.com/orgs/oncokb/people)",
-  "license": "AGPL-3.0",
+  "license": "Apache-2.0",
   "style": "dist/css/oncokb.css",
   "sass": "scss/oncokb.scss",
   "repository": {
